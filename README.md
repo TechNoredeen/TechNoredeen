@@ -20,9 +20,19 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - ### Internet Information Services (IIS)
 
-<h2>Operating Systems Used </h2>
+<h2>Prerequisites </h2>
 
-- Windows 10</b> (21H2)
+- ### Create a Virtual Machine in Azure
+
+- ### Install osTicket v1.15.8
+
+- ### Install HeidiSQL
+
+- ### Install MySQL
+
+- ### Install PHP
+
+- ### install Microsoft Visual C++ Redistributable 10</b> (21H2)
 
 <h2>List of Prerequisites</h2>
 
