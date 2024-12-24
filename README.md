@@ -10,11 +10,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
-<h2>Environments and Technologies Used</h2>
+<h2>Software and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
+- ### Windows 10 (Build 19044)
+
+- ### Microsoft Azure (Virtual Machines)
+
+- ### Remote Desktop (RDP)
+
+- ### Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
 
