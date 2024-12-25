@@ -219,7 +219,7 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 </p>
 <p>
 	<img src="https://i.imgur.com/rvMvlNC.png" height="75%" width="100%" />
-	<img src="https://i.imgur.com/YszhIpl.png" height="75%" width="100%" />
+	<img src="https://i.imgur.com/hD66F5X.png" height="75%" width="100%" />
 </p>
 <br />
 <br />
