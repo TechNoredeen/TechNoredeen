@@ -1,4 +1,4 @@
-<h1>Hello I'm Noredeen, an <a href=("www.linkedin.com/in/noredeen-alazn-0bb307182")>IT Specialist</a>☺</h1>
+<h1>Hello I'm Noredeen, an <a href="https://www.linkedin.com/in/noredeen-alazn-0bb307182/?trk=public-profile-join-page">IT Specialist</a>☺</h1>
 
 <h2>🖥️ Information Technology Projects🖥</h2>
 
@@ -16,4 +16,4 @@
 
 [<img align="left" alt="Noredeen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]:("www.linkedin.com/in/noredeen-alazn-0bb307182")
+[linkedin]: https://www.linkedin.com/in/noredeen-alazn-0bb307182/?trk=public-profile-join-page
